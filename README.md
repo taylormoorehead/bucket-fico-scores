@@ -1,4 +1,4 @@
-# JPMorgan Quantitative Research Task 4 - Credit Risk Analysis
+# JPMorgan Quantitative Research Task 4 - Bucket FICO Scores
 
 Charlie wants to make her model work for future data sets, so she needs a general approach to generating the buckets. Given a set number of buckets corresponding to the number of input labels for the model, she would like to find out the boundaries that best summarize the data. You need to create a rating map that maps the FICO score of the borrowers to a rating where a lower rating signifies a better credit score.
 
